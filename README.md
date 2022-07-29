@@ -1,4 +1,4 @@
-# travel_ui
+# NFT UI
 
 A new Flutter project.
 
